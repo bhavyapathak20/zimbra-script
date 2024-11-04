@@ -1,4 +1,4 @@
-# Zimbra admin credentials
+# Zimbra admin credentials 
 
 ZM_ADMIN="admin@bhavyabook.local"
 ZM_ADMIN_PASS="the_password"
