@@ -14,7 +14,6 @@ This repository contains scripts to extract Zimbra user information and import u
 
 ### Extract Script (`extract.sh`)
 
-- **Usage**:
   1. For executing the script:
      ```bash
      chmod +x extract.sh
@@ -27,7 +26,6 @@ This repository contains scripts to extract Zimbra user information and import u
 
 ### Import Script (`import.sh`)
 
-- **Usage**:
   1. Ensuring that the CSV file is in the same directory.
   2. Making the script executable:
      ```bash
