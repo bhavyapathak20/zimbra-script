@@ -1,5 +1,7 @@
+It is developed using Zimbra open-source collaboration version 8.8.15 on Ubuntu version 20.04 LTS using Windows Subsystem for Linux (WSL).
+
 ## Overview
-This repository contains scripts to extract Zimbra user information and import users into a Linux os. It extracts user email id and hashing techniques and outputs them in a CSV format. The import script uses the CSV to create users on the Linux system
+This repository contains scripts to extract Zimbra user information and import users into a Linux os. It extracts user email IDs and hashing techniques and outputs them in a CSV format. The import script uses the CSV to create users on the Linux system
 
 ## Steps
 1. **Extracting Zimbra User Info**:
